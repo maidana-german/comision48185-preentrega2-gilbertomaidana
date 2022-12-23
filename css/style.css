@@ -432,10 +432,10 @@ header nav ul li a:hover{
     }
     .grid-productos{
         grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: 150px 30px 280px 150px 30px 280px 150px 30px 280px;
+        grid-template-rows: 150px 30px 360px 150px 30px 360px 150px 30px 360px;
         grid-template-areas: 
         "i1 ."
-        "tt1 ."
+        "tt1 tt1"
         "tx1 tx1"
         "i2 ."
         "tt2 ."
