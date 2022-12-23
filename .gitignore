@@ -1,0 +1,9 @@
+# Archivo de Texto
+*.txt
+README.md
+
+
+# Carpeta Nodes Modules
+node_modules/
+
+
