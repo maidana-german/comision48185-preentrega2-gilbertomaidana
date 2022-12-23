@@ -421,3 +421,8 @@ header nav ul li a:hover{
     }
 }
 
+@media screen and (max-width:400px){
+    .nav1 h1{
+        font-size: 60px;
+    }
+}
