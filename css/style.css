@@ -398,6 +398,9 @@ header nav ul li a:hover{
     .nav1{
         flex-direction: column;
     }
+    .nav1 h1{
+        font-size: 80px;
+
     .grid-nuestrosClientes{
         grid-template-columns: 1fr;
     }
