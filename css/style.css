@@ -362,6 +362,14 @@ header nav ul li a:hover{
     line-height: 20px;
 }
 
+.formulario{
+    width: 600px;
+    padding: 20px;
+}
+.formulario h2{
+    font-size: 20px;
+}
+
 /**Media Querie*/
 @media screen and (max-width:900px){
     .nav2{
