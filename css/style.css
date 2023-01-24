@@ -207,6 +207,7 @@ header nav ul li a:hover{
     position: fixed;
     left: 0;
     bottom: 0;
+    background-color: red;
 }
 
 .pieDePagina h3{
