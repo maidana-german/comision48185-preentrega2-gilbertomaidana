@@ -204,6 +204,9 @@ header nav ul li a:hover{
 .pieDePagina{
     padding: 20px;
     height: auto;
+    position: fixed;
+    left: 0;
+    bottom: 0;
 }
 
 .pieDePagina h3{
