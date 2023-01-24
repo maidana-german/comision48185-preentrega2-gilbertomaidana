@@ -203,6 +203,7 @@ header nav ul li a:hover{
 
 .pieDePagina{
     padding: 20px;
+    height: auto;
 }
 
 .pieDePagina h3{
