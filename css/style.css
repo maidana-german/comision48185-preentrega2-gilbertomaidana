@@ -190,10 +190,10 @@ header nav ul li a:hover{
 /*------------Footer------------*/
 
 .redesSociales h3{
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 30px;
+    margin-bottom: 20px;
     color: black;
-    font-size: 10px;
+    font-size: 20px;
 }
 
 .redesSociales a img{
@@ -202,26 +202,21 @@ header nav ul li a:hover{
 }
 
 .pieDePagina{
-    padding: 5px;
-    height: auto;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    background-color: red;
+    padding: 20px;
 }
 
 .pieDePagina h3{
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     color: black;
-    font-size: 10px;
+    font-size: 20px;
 }
 
 .pieDePagina p{
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     color: black;
-    font-size: 10px;
+    font-size: 15px;
 }
 
 /*------------Page Productos------------*/
